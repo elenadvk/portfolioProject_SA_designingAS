@@ -34,6 +34,7 @@
 
 ## ERD
 Показывает структуру базы данных.
+
 <img width="580" height="688" alt="image" src="https://github.com/user-attachments/assets/28ab6a71-cf05-4c1d-87ba-46266e24c46c" />
 
 ## Sequence Diagrams
