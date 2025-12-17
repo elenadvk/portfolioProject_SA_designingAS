@@ -29,29 +29,40 @@
 ## Sequence Diagrams
 ### Сценарий входа в приложение для пользователя
 <img width="945" height="1172" alt="image" src="https://github.com/user-attachments/assets/404f5dec-9f53-4468-b877-d9d45947388e" />
+
 ### Сценарии работы с товарами для покупателя 
 <img width="611" height="970" alt="image" src="https://github.com/user-attachments/assets/e0dbf315-d0ec-4b92-b20e-74244337bbb6" />
+
 ### Сценарии работы с профилем покупателя
 <img width="1075" height="787" alt="image" src="https://github.com/user-attachments/assets/a02aa036-694d-4038-b0d3-19746dc14986" />
+
 ### Сценарии работы с профилем продавца
 <img width="817" height="956" alt="image" src="https://github.com/user-attachments/assets/eaf436b2-f95e-4021-8eec-5982f991809a" />
+
 ### Сценарии работы с товарами для продавца 
 <img width="605" height="981" alt="image" src="https://github.com/user-attachments/assets/c3b9a314-67d1-4d0a-bf67-9fd579803dac" />
+
 
 ## Тест-кейсы (представлена часть)
 ### Регистрация пользователя
 <img width="1473" height="767" alt="image" src="https://github.com/user-attachments/assets/08888b6b-ef95-4729-948c-10245f8a2104" />
+
 ### Двухфакторная аутентификация
 <img width="1473" height="497" alt="image" src="https://github.com/user-attachments/assets/7a96af20-0826-4194-8136-8de4262b29db" />
+
 ### Добавление нового товара продавцом
 <img width="1302" height="780" alt="image" src="https://github.com/user-attachments/assets/ca4b999a-89b2-4843-a47d-6b0608ff1037" />
+
 ### Обновление списка товаров в корзине покупателя
 <img width="1133" height="588" alt="image" src="https://github.com/user-attachments/assets/fcf59138-03ad-4535-a9e8-4f680894aa97" />
 
 ## Пример реализации (фронт, часть экранов)
 ### Экран каталога с изделиями
 <img width="338" height="715" alt="image" src="https://github.com/user-attachments/assets/e79583d8-0b1f-4965-aefa-2a2128ca6cbd" />
+
 ### Экраны просмотра активных заказов продавцом
 <img width="702" height="720" alt="image" src="https://github.com/user-attachments/assets/4b229ea2-48ec-4b86-82ef-fc82a81bc91c" />
+
 ### Экран просмотра оформленных заказов покупателем
 <img width="697" height="725" alt="image" src="https://github.com/user-attachments/assets/ab3ac2c5-7d30-4628-98c8-b55b69c5dcd4" />
+
